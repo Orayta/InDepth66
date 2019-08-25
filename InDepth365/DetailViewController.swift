@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  InDepth365
 //
-//  Created by Mandy Jackson on 8/24/19.
+//  Created by Elihu Uz on 8/24/19.
 //  Copyright © 2019 IC-XC. All rights reserved.
 //
 
