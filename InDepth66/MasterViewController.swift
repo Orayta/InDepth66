@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  InDepth66
 //
-//  Created by Mandy Jackson on 8/24/19.
+//  Created by Barry Jackson on 8/24/19.
 //  Copyright © 2019 IC-XC. All rights reserved.
 //
 
